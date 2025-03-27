@@ -1,0 +1,13 @@
+numpy
+pandas
+PyWavelets
+scikit-image
+opencv-python
+matplotlib
+seaborn
+os-sys
+notebook
+scikit-learn
+tqdm
+torch
+torchvision
